@@ -13,6 +13,7 @@
 [Display](#display)  
 [Debug](#debug)  
 [Integrated Terminal](#integratedTerminal)  
+***  
 ### <a name="general">General</a>
 <table style = "width:100%">
     <tr>
