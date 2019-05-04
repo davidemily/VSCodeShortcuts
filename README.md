@@ -185,3 +185,39 @@
         <td>Toggle Tab moves focus</td>
     </tr>
 </table>
+
+### Search and Replace
+<table style = "width:100%">
+<table>
+    <tr>
+        <td>Ctrl+T</td>
+        <td>Show all Symbols</td>
+    </tr>
+        <td>Ctrl+F</td>
+        <td>Find</td>
+    </tr>
+    <tr>
+        <td>Ctrl+H</td>
+        <td>Replace</td>
+    </tr>
+    <tr>
+        <td>F3/Shift+F3</td>
+        <td>Find next/previous</td>
+    </tr>
+    <tr>
+        <td>Alt+Enter</td>
+        <td>Select all occurences of Find match</td>
+    </tr>
+    <tr>
+        <td>Ctrl+D</td>
+        <td>Add selection to next Find match</td>
+    </tr>
+    <tr>
+        <td>Ctrl+K Ctrl+D</td>
+        <td>Move last selection to next Find match</td>
+    </tr>
+    <tr>
+        <td>Alt+C/ R / W</td>
+        <td>Toggle case-sensitive/ regex / whole word</td>
+    </tr>
+</table>
