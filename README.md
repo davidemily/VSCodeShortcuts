@@ -6,14 +6,13 @@
 [Basic Editing](#basicEditing)  
 [Navigation](#navigation)  
 [Search and Replace](#searchReplace)
-[Multi-cursor and Selection](#multicursor)
-[Rich Languages Editing](#richEditing)
-[Editor Management](#editorManagement)
-[File Management](#fileManagement)
-[Display](#display)
-[Debug](#debug)
-[Integrated Terminal](#integratedTerminal)
-
+[Multi-cursor and Selection](#multicursor)  
+[Rich Languages Editing](#richEditing)  
+[Editor Management](#editorManagement)  
+[File Management](#fileManagement)  
+[Display](#display)  
+[Debug](#debug)  
+[Integrated Terminal](#integratedTerminal)  
 ### <a name="general">General</a>
 <table style = "width:100%">
     <tr>
