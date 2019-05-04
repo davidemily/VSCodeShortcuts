@@ -1,7 +1,7 @@
 # VSCodeShortcuts
 #### From [Code.VisualStudio](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)'s PDF
 
-## General  
+### General  
 <table style = "width:100%">
     <tr>
         <th>Keys</th>
@@ -32,7 +32,7 @@
     </tr>
 </table>
 
-## Basic Editing
+### Basic Editing
 <table style = "width:100%">
 <table>
     <tr>
@@ -141,7 +141,7 @@
     </tr>
 </table>
 
-## Navigation  
+### Navigation  
 <table style = "width:100%">
 <table>
     <tr>
