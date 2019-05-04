@@ -2,18 +2,35 @@
 #### From [Code.VisualStudio](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)'s PDF
 
 ## General  
-Ctrl+Shift+P,F1 : Show Command Palette
-
-Ctrl+PQuick : Open Go to File
-
-Ctrl+Shift+N : New window/instance
-
-Ctrl+Shift+W : Close window/instance
-
-Ctrl+, : User Settings
-
-Ctrl+K+Ctrl+S : Keyboard Shortcuts
-
+<table style = "width:100%">
+    <tr>
+        <th>Keys</th>
+        <th>Commands</th>
+    </tr>    
+    <tr>
+        <td>Ctrl+Shift+P,F1</td>
+        <td>Show Command Palette</td>
+    </tr>
+    <tr>
+        <td>Ctrl+PQuick</td> 
+        <td>Open Go to File</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+N</td> 
+        <td>New window/instance<\td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+W</td>
+        <td>Close window/instance</td>
+    </tr>
+    <tr>
+        <td>Ctrl+,</td>
+        <td>User Settings</td>
+    <tr>
+        <td>Ctrl+K+Ctrl+S</td>
+        <td>Keyboard Shortcuts</td>
+    </tr>
+</table>
 ## Basic Editing
 Ctrl+X : Cutline (empty selection)
 
