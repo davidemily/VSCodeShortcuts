@@ -1,7 +1,20 @@
 # VSCodeShortcuts
 #### From [Code.VisualStudio](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)'s PDF
 
-### General  
+## Table of Contents
+[General](#general)
+Basic Editing
+Navigation
+Search and Replace
+Multi-cursor and Selection
+Rich Languages Editing
+Editor Management
+File Management
+Display
+Debug
+Integrated Terminal
+
+### <a name="general">General</a>
 <table style = "width:100%">
     <tr>
         <th>Keys</th>
