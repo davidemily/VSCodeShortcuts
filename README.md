@@ -5,7 +5,7 @@
 [General](#general)  
 [Basic Editing](#basicEditing)  
 [Navigation](#navigation)  
-[Search and Replace](#searchReplace)
+[Search and Replace](#searchReplace)  
 [Multi-cursor and Selection](#multicursor)  
 [Rich Languages Editing](#richEditing)  
 [Editor Management](#editorManagement)  
@@ -404,7 +404,7 @@
 ***  
 
 ### <a name="fileManagement">File Management</a>
-<table style = "width:100%">
+<table style="width:100%">
 <table>
     <tr>
         <th>Keys</th>
@@ -465,7 +465,7 @@
     <tr>
         <td>Ctrl+K O</td>
         <td>Show active file in new window/instance</td>
-    </tr>]
+    </tr>
 </table>  
     
 ***  
