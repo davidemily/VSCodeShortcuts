@@ -2,8 +2,7 @@
 #### From [Code.VisualStudio](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)'s PDF
 
 ## General  
-<table style = "widt</td>
-<td>00%">
+<table style = "width:100%">
     <tr>
         <th>Keys</th>
         <th>Commands</th>
@@ -34,8 +33,7 @@
 </table>
 
 ## Basic Editing
-<table style = "widt</td>
-<td>00%">
+<table style = "width:100%">
 <table>
     <tr>
         <th>Keys</th>
@@ -142,4 +140,48 @@
         <td>Toggle word wrap</td>
     </tr>
 </table>
+
 ## Navigation  
+<table style = "width:100%">
+<table>
+    <tr>
+        <td>Ctrl+T</td>
+        <td>Show all Symbols</td>
+    </tr>
+    <tr>
+        <td>Ctrl+G</td>
+        <td>Go to Line...</td>
+    </tr>
+    <tr>
+        <td>Ctrl+P</td>
+        <td>Go to File...</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+O</td>
+        <td>Go to Symbol...</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+M</td>
+        <td>Show Problems panel</td>
+    </tr>
+    <tr>
+        <td>F8</td>
+        <td>Go to next error or warning</td>
+    </tr>
+    <tr>
+        <td>Shift+F8</td>
+        <td>Go to previous error or warning</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+Tab</td>
+        <td>Navigate editor grouphistory</td>
+    </tr>
+    <tr>
+        <td>Alt+←/→ </td>
+        <td>Go back/forward</td>
+    </tr>
+    <tr>
+        <td>Ctrl+M</td>
+        <td>Toggle Tab moves focus</td>
+    </tr>
+</table>
