@@ -43,7 +43,9 @@
         <td>Ctrl+K+Ctrl+S</td>
         <td>Keyboard Shortcuts</td>
     </tr>
-</table>
+</table>  
+
+***  
 
 ### <a name="basicEditing">Basic Editing</a>
 <table style = "width:100%">
@@ -152,7 +154,9 @@
         <td>Alt+Z</td>
         <td>Toggle word wrap</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="navigation"> Navigation</a>  
 <table style = "width:100%">
@@ -201,7 +205,9 @@
         <td>Ctrl+M</td>
         <td>Toggle Tab moves focus</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="searchReplace">Search and Replace</a>  
 <table style = "width:100%">
@@ -237,7 +243,9 @@
         <td>Alt+C/ R / W</td>
         <td>Toggle case-sensitive/ regex / whole word</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="multicursor">Multi-cursor and Selection</a>
 <table style = "width:100%">
@@ -293,7 +301,9 @@
         <td>Ctrl+Shift+Alt+PgUp/PgDn</td>
         <td>Column(box)selection page up/down</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="richEditing">Rich Languages Editing</a>
 <table style = "width:100%">
@@ -350,7 +360,9 @@
         <td>Ctrl+K M</td>
         <td>Change file language</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="editorManagement">Editor Management</a>
 <table style = "width:100%">
@@ -387,7 +399,9 @@
         <td>Ctrl+K ←/→</td>
         <td>Move active editor group</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="fileManagement">File Management</a>
 <table style = "width:100%">
@@ -452,7 +466,9 @@
         <td>Ctrl+K O</td>
         <td>Show active file in new window/instance</td>
     </tr>]
-</table>
+</table>  
+    
+***  
 
 ### <a name="display">Display</a>
 <table style = "width:100%">
@@ -521,7 +537,9 @@
         <td>Ctrl+K Z</td>
         <td>Zen Mode(Esc Esc to exit)</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="debug">Debug</a>
 <table style = "width:100%">
@@ -554,7 +572,9 @@
         <td>Ctrl+K Ctrl+I</td>
         <td>Show hover</td>
     </tr>
-</table>
+</table>  
+    
+***  
 
 ### <a name="integratedTerminal">Integrated Terminal</a>
 <table style = "width:100%">
