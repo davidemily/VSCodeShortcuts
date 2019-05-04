@@ -221,3 +221,59 @@
         <td>Toggle case-sensitive/ regex / whole word</td>
     </tr>
 </table>
+
+### Multi-cursor and Selection
+<table style = "width:100%">
+<table>
+    <tr>
+        <td>Ctrl+T</td>
+        <td>Show all Symbols</td>
+    </tr>
+        <td>Alt+Click</td>
+        <td>Insert cursor</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Alt+↑/↓</td>
+        <td>Insert cursor above/below</td>
+    </tr>
+    <tr>
+        <td>Ctrl+U</td>
+        <td>Undo last cursor operation</td>
+    </tr>
+    <tr>
+        <td>Shift+Alt+I</td>
+        <td>Insert cursor at end of each line selected</td>
+    </tr>
+    <tr>
+        <td>Ctrl+L</td>
+        <td>Select current line</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+L</td>
+        <td>Select all occurrences of current selection</td>
+    </tr>
+    <tr>
+        <td>Ctrl+F2</td>
+        <td>Select all occurrences of current word</td>
+    </tr>
+    <tr>
+        <td>Shift+Alt+→</td>
+        <td>Expand selection</td>
+    </tr>
+    <tr>
+        <td>Shift+Alt+←</td>
+        <td>Shrink selection</td>
+    </tr>
+    <tr>
+        <td>Shift+Alt+(drag mouse)</td>
+        <td>Column (box) selection</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+Alt+(arrow key)</td>
+        <td>Column (box) selection</td>
+    </tr>
+    <tr>
+        <td>Ctrl+Shift+Alt+PgUp/PgDn</td>
+        <td>Column(box)selection page up/down</td>
+    </tr>
+</table>
