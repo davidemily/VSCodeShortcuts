@@ -2,17 +2,17 @@
 #### From [Code.VisualStudio](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)'s PDF
 
 ## Table of Contents
-[General](#general)
-Basic Editing
-Navigation
-Search and Replace
-Multi-cursor and Selection
-Rich Languages Editing
-Editor Management
-File Management
-Display
-Debug
-Integrated Terminal
+[General](#general)  
+[Basic Editing](#basicEditing)  
+[Navigation](#navigation)  
+[Search and Replace](#searchReplace)
+[Multi-cursor and Selection](#multicursor)
+[Rich Languages Editing](#richEditing)
+[Editor Management](#editorManagement)
+[File Management](#fileManagement)
+[Display](#display)
+[Debug](#debug)
+[Integrated Terminal](#integratedTerminal)
 
 ### <a name="general">General</a>
 <table style = "width:100%">
@@ -45,7 +45,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Basic Editing
+### <a name="basicEditing">Basic Editing</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -154,7 +154,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Navigation  
+### <a name="navigation"> Navigation</a>  
 <table style = "width:100%">
 <table>
     <tr>
@@ -203,7 +203,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Search and Replace
+### <a name="searchReplace">Search and Replace</a>  
 <table style = "width:100%">
 <table>
     <tr>
@@ -239,7 +239,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Multi-cursor and Selection
+### <a name="multicursor">Multi-cursor and Selection</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -295,7 +295,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Rich Languages Editing
+### <a name="richEditing">Rich Languages Editing</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -352,7 +352,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Editor Management
+### <a name="editorManagement">Editor Management</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -389,7 +389,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### File Management
+### <a name="fileManagement">File Management</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -454,7 +454,7 @@ Integrated Terminal
     </tr>]
 </table>
 
-### Display
+### <a name="display">Display</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -523,7 +523,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Debug
+### <a name="debug">Debug</a>
 <table style = "width:100%">
 <table>
     <tr>
@@ -556,7 +556,7 @@ Integrated Terminal
     </tr>
 </table>
 
-### Integrated Terminal
+### <a name="integratedTerminal">Integrated Terminal</a>
 <table style = "width:100%">
 <table>
     <tr>
