@@ -551,7 +551,7 @@
         <th>Commands</th>
     </tr> 
     <tr>
-        <td>Ctrl+\`</td>
+        <td>Ctrl+`</td>
         <td>Show integrated terminal</td>
     </tr> 
     <tr>
